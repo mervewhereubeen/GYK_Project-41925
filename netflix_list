@@ -1,0 +1,5 @@
+mkdir netflix_recommendation
+cd netflix_recommendation
+mkdir app
+cd app
+mkdir __pycache__
